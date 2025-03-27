@@ -1,1 +1,31 @@
-b5ea4039643f13f7d43ebba9581151d5d2d0b0d4bd720b6d5790acfd99dd54ccs
+{
+  "java_preferred_type": "flexmc",
+  "version": "0.1.38",
+  "bootVersion": "0.22",
+  "versionControl": {
+    "windows": {
+      "checksum": "09c025448422510dfe911cb688c1df796ce0c8b9",
+      "url": "https://launcher.flexmc.com.tr/bootstrap/bootstrap.jar"
+    }
+  },
+  "natives_url": "https://launcher.flexmc.com.tr/minecraft/client/natives.zip",
+  "assets_url": "https://launcher.flexmc.com.tr/minecraft/client/assets.zip",
+  "launcher_jar_url": "https://launcher.flexmc.com.tr/minecraft-launcher/a90b5a223e9565d6af3381fe414f9f9dd425f2cc.jar",
+  "launcher_jar_checksum": "a90b5a223e9565d6af3381fe414f9f9dd425f2cc",
+  "launcher_path": "launcher.jar",
+  "launcher_args": "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dcom.sun.net.ssl.checkRevocation=false -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -XX:+DisableAttachMechanism -Dcom.ibm.tools.attach.enable=no -Djna.encoding=UTF-8 -Dlog4j2.formatMsgNoLookups=true -Dr=1 -Xmn%initRAM%M -Xmx%maxRAM%M -Djava.net.preferIPv4Stack=true %runArgs%", 
+  "javaIntegrity": {
+    "rt-x64": "6bbd8364dcb7aa2783eadca6136ee382e35749ba"
+  },
+  "downloads": {
+    "client": {
+      "sha1": "52111e90f813d935b43dba0405fcf588d66debce",
+      "url": "https://launcher.flexmc.com.tr/minecraft/client/52111e90f813d935b43dba0405fcf588d66debce.jar"
+    }
+  },
+  "java": {
+    "url": "https://launcher.flexmc.com.tr/java/java.zip",
+    "sha1": "cc7f42ab58a89cd036b8f55226a2459804b1d981",
+    "sha1-x32": "d10eff2fcb4a7e96e39cc699dc9344a4698a6a60"
+  }
+}
